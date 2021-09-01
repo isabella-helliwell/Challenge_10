@@ -4,3 +4,9 @@
   For this, we will use BeautifulSoup and Splinter to scrape full-resolution images of Mar's hemispheres and their titles.
   This data is stored on a Mongo database. We also create a web application using FLASK to display the data. The last part of this project
   is to alter some designs of the web app.
+  
+# 2. Resources
+     web application: Jupyter notebook, FLASK
+     Software: Python 3.7.6, Splinter, BeautifulSoup, BootStrap
+     Database: MongoDB
+     
