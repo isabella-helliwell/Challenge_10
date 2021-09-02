@@ -25,7 +25,7 @@
 
 # 4. Result web app
 
-Before created the thumbnails for the 4 mars hemisphere images, the full images are as follows:
+Before created the thumbnails for the 4 mars hemisphere images, the full images are as shown here:
 
 ![mars_hem1](https://user-images.githubusercontent.com/85843030/131866099-c670aee9-c78e-490b-8369-47d28a7ffea1.jpg)
 ![mars_hem2](https://user-images.githubusercontent.com/85843030/131866138-d8285eb3-ab44-450b-a297-ca39911126ac.jpg)
@@ -33,6 +33,7 @@ Before created the thumbnails for the 4 mars hemisphere images, the full images 
 
 
 
+The Web App looks like this:
 
 ![image](https://user-images.githubusercontent.com/85843030/131760960-dcf64995-d488-42ad-9783-e8853e00d0c5.png)
 ![mars_web2](https://user-images.githubusercontent.com/85843030/131761590-0b37058f-aec9-4196-af71-197c5d0762e6.jpg)
