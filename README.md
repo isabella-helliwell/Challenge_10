@@ -12,11 +12,6 @@
     
 # 3. Result web app
 
-      ![mars_web1](https://user-images.githubusercontent.com/85843030/131760772-c2b4d307-5f47-4875-bc5c-30c75c32d919.jpg)
-
-
-
-      ![mars_web2](https://user-images.githubusercontent.com/85843030/131760795-fc1405fe-2fbf-4753-8298-434cec975517.jpg)
-
+     ![image](https://user-images.githubusercontent.com/85843030/131760960-dcf64995-d488-42ad-9783-e8853e00d0c5.png)
 
      
