@@ -13,15 +13,15 @@
 
 
 # 3. Summary
-   The first part pf the code was given. For the challenge part of the code, I sued BeautifulSoup and Splinter to scrape full-resolution
+   The first part pf the code was given. For the challenge part of the code, I used BeautifulSoup and Splinter to scrape full-resolution
    images of the Mars's hemisphere and also their titles.
    After using DevTools to inspect the webpage, and find the full resolution images of each of the hemispheres, I used jupyter notebook to write
    the code to check for any errors.
    After this step, I updated the scraping.py file to create a function that will scrape the hemisphere data and return the scraped data as a list
    of dictionaries with the url string and title for each hemisphere image.
    Finally, I modified the index.html file to access my database, and retrieve the images and titles.
-   I also modified some web design attributes such as the "scrap button" color, 'Mars Data" table borders and colors. I also created thumbnails for the 
-   4 images of the mars hemispheres.
+   I also modified some web design attributes such as the "scrap button" color, 'Mars Data" table borders and colors. I added background pictures,
+   background color and I also created thumbnails for the 4 images of the mars hemispheres.
 
 # 4. Result web app
 
