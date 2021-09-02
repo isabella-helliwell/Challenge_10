@@ -24,6 +24,7 @@
    background color and I also created thumbnails for the 4 images of the mars hemispheres.
 
 # 4. Result web app
+## 4.1 Results showing the 4 full size images
 
 Before created the thumbnails for the 4 mars hemisphere images, the full images are as shown here:
 
@@ -32,8 +33,8 @@ Before created the thumbnails for the 4 mars hemisphere images, the full images 
 
 
 
+## 4.2 Final result of the web app, including design attributes and thumbnail images
 
-The Web App looks like this:
 
 ![image](https://user-images.githubusercontent.com/85843030/131760960-dcf64995-d488-42ad-9783-e8853e00d0c5.png)
 ![mars_web2](https://user-images.githubusercontent.com/85843030/131761590-0b37058f-aec9-4196-af71-197c5d0762e6.jpg)
