@@ -9,6 +9,7 @@
      web application: Jupyter notebook, FLASK
      Software: Python 3.7.6, Splinter, BeautifulSoup, BootStrap
      Database: MongoDB
+     websites: https://redplanetscience.com/ ,'https://spaceimages-mars.com', 'https://galaxyfacts-mars.com' , 'https://marshemispheres.com/'
     
 # 3. Result web app
 
