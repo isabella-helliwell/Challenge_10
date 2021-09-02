@@ -9,4 +9,12 @@
      web application: Jupyter notebook, FLASK
      Software: Python 3.7.6, Splinter, BeautifulSoup, BootStrap
      Database: MongoDB
+    
+# 3. Result web app
+
+     ![mars_web1](https://user-images.githubusercontent.com/85843030/131760706-196c7847-5892-46e7-ac3d-66fde96d742c.jpg)
+
+
+     ![mars_web2](https://user-images.githubusercontent.com/85843030/131760712-b476d603-a10a-41ab-8093-24d7a2b858d3.jpg)
+
      
