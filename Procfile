@@ -1,1 +1,1 @@
-web: gunicorn Happiness.app:app --preload
+web: gunicorn app:app --preload
